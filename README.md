@@ -1,1 +1,1 @@
-# Deeplearning-Algo-Sratch
+# Deeplearning-Algo-Scratch
